@@ -1,0 +1,11 @@
+
+To Do List (Java Mini-Project)
+A simple Java console application to manage tasks effectively.
+
+🧩 File Summary
+
+App.java -> Entry point of the application (main method).
+ToDoListGui.java -> Builds and controls the main GUI layout and interactions.
+TaskComponent.java -> Represents each task item (UI + delete logic).
+ToDoList.java -> Core logic placeholder – seems underutilized.
+CommonConstants.java -> Holds constants (like colours, strings) for consistent use across files
